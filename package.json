@@ -1,0 +1,27 @@
+{
+  "name": "just-for-you",
+  "version": "1.0.0",
+  "description": "Init. README.md",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mharidy/just-for-you.git"
+  },
+  "author": "Mohamed haridy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mharidy/just-for-you/issues"
+  },
+  "homepage": "https://github.com/mharidy/just-for-you#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5",
+    "nodemon": "^2.0.2"
+  }
+}
